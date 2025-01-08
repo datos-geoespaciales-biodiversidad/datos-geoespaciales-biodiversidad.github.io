@@ -1,8 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
+title: Procesamiento de datos geoespaciales de biodiversidad
+author: Manuel Vargas
+copyright: "2025" # Copyright year to be placed in the footer
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
